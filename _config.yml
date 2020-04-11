@@ -2,7 +2,8 @@ title: "T-share | Reto #YoMeCorono"
 description: Súmate al reto por un mundo sin COVID-19. 
 image: '/assets/images/category/jekyll/configuration.jpg'
 sitename: "T-share | Reto #YoMeCorono"
-baseurl: '/'
+url: "https://marvlm.github.io"
+baseurl: "/concurso-t-share/"
 sass:
   sass_dir: /assets/_sass
   style: :compressed
