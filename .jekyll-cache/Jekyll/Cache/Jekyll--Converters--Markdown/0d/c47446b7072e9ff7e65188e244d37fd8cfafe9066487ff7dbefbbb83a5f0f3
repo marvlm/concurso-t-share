@@ -1,0 +1,6 @@
+I"�<p>TDD o Desarrollo guiado por pruebas, es un enfoque evolutivo en la ingeniería de software que combina 2 prácticas que permiten crear código de calidad:</p>
+<ul>
+  <li><strong>Escribir la prueba primero</strong> (Test First Development - TFD): escribir la prueba antes del código de producción.</li>
+  <li><strong>Refactorización</strong> (Refactoring): mejorar la estructura del código.</li>
+</ul>
+:ET

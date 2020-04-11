@@ -1,0 +1,18 @@
+title: "T-share | Reto #YoMeCorono"
+description: Súmate al reto por un mundo sin COVID-19. 
+image: '/assets/images/category/jekyll/configuration.jpg'
+sitename: "T-share | Reto #YoMeCorono"
+baseurl: '/'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - sections
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+author: Marvin López
+author_url: https://about.me/marvlm

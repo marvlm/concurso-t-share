@@ -1,75 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name='description' content='Súmate al reto por un mundo sin COVID-19.'>
-    <meta name="author" content='Marvin López'>
-  
-    <title>T-share | Reto #YoMeCorono</title>
-  
-    <!-- Bootstrap Core CSS -->
-    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  
-    <!-- Custom Fonts -->
-    <link href="/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
-      rel="stylesheet" type="text/css">
-    <link href="/assets/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Gotu&display=swap" rel="stylesheet">
-    
-    <!-- Custom CSS -->
-    <!-- <link href="css/stylish-portfolio.min.css" rel="stylesheet"> -->
-    <link href='/assets/css/stylish-portfolio.css' rel='stylesheet' type='text/css'>
-  
-  </head>
+{% include head.html %}
 
 <body id="page-top">
 
   <!-- Logo -->
-  
-    <div class="container">
-        <a class="logo js-scroll-trigger" href="#page-top"><img src="/assets/img/logo.png"></a>
-        <!-- <div id="menu">
-        <ul>
-          <li> <a href="#/features/01-que-es">Qué es?</a> </li>
-          <li> <a href="#/features/02-ciclo">Ciclo</a> </li>
-          <li> <a href="#/features/02.1-ciclo-ejemplo">Ejemplo</a> </li>
-          <li> <a href="#/features/03-leyes">Leyes</a> </li>
-          <li> <a href="#/features/04-first">F.I.R.S.T</a> </li>
-          <li> <a href="#/features/05-ventajas">Ventajas</a> </li>
-          <li> <a href="#/features/06-desventajas">Desventajas</a> </li>
-          <li> <a href="#/features/07-herramientas">Herramientas</a> </li>
-          <li> <a href="#/features/08-smells">Test Smells</a> </li>
-        </ul>
-      </div> -->
-    </div>
+  {% include logo.html %}
 
   <!-- Navigation -->
-  <a class="menu-toggle rounded" href="#">
-  <i class="fas fa-bars"></i>
-</a>
-<nav id="sidebar-wrapper">
-  <ul class="sidebar-nav">
-    <li class="sidebar-brand">
-      <a class="js-scroll-trigger" href="#page-top">Inicio</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#yomecorono">#YoMeCorono</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#participar">Como participar</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#aceptar">Acepto el reto</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#t-share">Somos T-share</a>
-    </li>
-  </ul>
-</nav>
+  {% include navigation.html %}
 
   <!-- Header -->
   <header class="masthead d-flex">
@@ -191,7 +131,7 @@
                 <p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>
               </span>
             </span>
-            <img class="img-fluid" src="/assets/img/portfolio-1.jpg" alt="">
+            <img class="img-fluid" src="{{ site.baseurl }}assets/img/portfolio-1.jpg" alt="">
           </a>
         </div>
         <div class="col-lg-6">
@@ -202,7 +142,7 @@
                 <p class="mb-0">A dark blue background with a colored pencil, a clip, and a tiny ice cream cone!</p>
               </span>
             </span>
-            <img class="img-fluid" src="/assets/img/portfolio-2.jpg" alt="">
+            <img class="img-fluid" src="{{ site.baseurl }}assets/img/portfolio-2.jpg" alt="">
           </a>
         </div>
         <div class="col-lg-6">
@@ -213,7 +153,7 @@
                 <p class="mb-0">Strawberries are such a tasty snack, especially with a little sugar on top!</p>
               </span>
             </span>
-            <img class="img-fluid" src="/assets/img/portfolio-3.jpg" alt="">
+            <img class="img-fluid" src="{{ site.baseurl }}assets/img/portfolio-3.jpg" alt="">
           </a>
         </div>
         <div class="col-lg-6">
@@ -224,7 +164,7 @@
                 <p class="mb-0">A yellow workspace with some scissors, pencils, and other objects.</p>
               </span>
             </span>
-            <img class="img-fluid" src="/assets/img/portfolio-4.jpg" alt="">
+            <img class="img-fluid" src="{{ site.baseurl }}assets/img/portfolio-4.jpg" alt="">
           </a>
         </div>
       </div>
@@ -293,14 +233,14 @@
   </a>
 
   <!-- Bootstrap core JavaScript -->
-  <script src="/assets/vendor/jquery/jquery.min.js"></script>
-  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ site.baseurl }}assets/vendor/jquery/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Plugin JavaScript -->
-  <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="{{ site.baseurl }}assets/vendor/jquery-easing/jquery.easing.min.js"></script>
 
   <!-- Custom scripts for this template -->
-  <script src="/assets/js/stylish-portfolio.min.js"></script>
+  <script src="{{ site.baseurl }}assets/js/stylish-portfolio.min.js"></script>
 
 </body>
 
