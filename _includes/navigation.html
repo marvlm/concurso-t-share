@@ -4,12 +4,20 @@
 <nav id="sidebar-wrapper">
   <ul class="sidebar-nav">
     <li class="sidebar-brand">
-      <a class="js-scroll-trigger" href="#page-top">Inicio</a>
+      <a class="js-scroll-trigger"
+        href="{% unless page.url == '/index.html' %}{{ site.baseurl }}{% endunless %}#page-top">Inicio</a>
     </li>
     {% for section in site.sections %}
     <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#{{ section.name }}">{{ section.title }}</a>
+      <a class="js-scroll-trigger"
+        href="{% unless page.url == '/index.html' %}{{ site.baseurl }}{% endunless %}#{{ section.name }}">{{ section.title }}</a>
     </li>
     {% endfor %}
+    <li class="sidebar-nav-item">
+      <a href="{{site.baseurl}}/bases-del-reto">Bases</a>
+    </li>
+    <li class="sidebar-nav-item">
+      <a href="{{site.blog}}" target="_blank" rel="noopener noreferrer">Blog</a>
+    </li>
   </ul>
 </nav>

@@ -37,7 +37,7 @@
           <ul>
             {% for section in site.sections %}
             <li>
-              <a class="js-scroll-trigger" href="#{{ section.name }}">{{ section.title }}</a>
+              <a class="js-scroll-trigger" href="{% unless page.url == '/index.html' %}{{ site.baseurl }}{% endunless %}#{{ section.name }}">{{ section.title }}</a>
             </li>
             {% endfor %}
           </ul>
@@ -48,12 +48,11 @@
             <li>
               <a href="{{site.blog}}" target="_blank" rel="noopener noreferrer">Blog </a>
             </li>
-            {% for item in site.data.navigation.docs %} {% if item.footer == true
-            %} {% if item.side == 'right' %}
+            {% for page in site.pages %}
             <li>
-              <a href="{{site.url}}{{ item.url }} ">{{ item.title }} </a>
+              <a href="{{page.permalink}}">{{ page.title }} </a>
             </li>
-            {% endif %} {% endif %} {% endfor %}
+            {% endfor %}
           </ul>
         </div>
         <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.8s">
