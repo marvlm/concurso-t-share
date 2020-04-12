@@ -1,5 +1,5 @@
 <footer class="footer text-center">
-    <div class="container">
+  <!-- <div class="container">
       <ul class="list-inline mb-5">
         <li class="list-inline-item">
           <a class="social-link rounded-circle text-white mr-3" href="#">
@@ -18,5 +18,85 @@
         </li>
       </ul>
       <p class="text-muted small mb-0">Copyright &copy; T-share 2020</p>
+    </div> -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.2s">
+          <h3>
+            <a href="{{ site.url }}"><img src="{{site.baseurl}}{{site.logo-white}}" alt="T-share logo"
+                title="T-share logo" /></a>
+          </h3>
+          <p>
+            {{ site.slogan }}
+          </p>
+          
+          <p>{{ site.description }}</p>
+        </div>
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
+          <h5>El reto</h5>
+          <ul>
+            {% for section in site.sections %}
+            <li>
+              <a class="js-scroll-trigger" href="#{{ section.name }}">{{ section.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.4s">
+          <h5>Enlaces de interés</h5>
+          <ul>
+            <li>
+              <a href="{{site.blog}}" target="_blank" rel="noopener noreferrer">Blog </a>
+            </li>
+            {% for item in site.data.navigation.docs %} {% if item.footer == true
+            %} {% if item.side == 'right' %}
+            <li>
+              <a href="{{site.url}}{{ item.url }} ">{{ item.title }} </a>
+            </li>
+            {% endif %} {% endif %} {% endfor %}
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-delay="0.8s">
+          <h5>Contáctanos</h5>
+          <div class="widget">
+            <div class="newsletter-wrapper">
+              <p>
+                <a href="mailto:{{ site.email }}?Subject=Información sobre The Branch" target="_top"><i
+                    class="far fa-envelope"></i> {{ site.email }}</a>
+              </p>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
     </div>
-  </footer>
+
+  <div id="copyright">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="site-info">
+            <ul class="list-inline mb-2">
+              <li class="list-inline-item">
+                <a class="social-link rounded-circle text-white mr-2" href="#">
+                  <i class="icon-social-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a class="social-link rounded-circle text-white mr-2" href="#">
+                  <i class="icon-social-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a class="social-link rounded-circle text-white" href="#">
+                  <i class="icon-social-github"></i>
+                </a>
+              </li>
+            </ul>
+            <p class="text-muted small mb-0">Copyright &copy; T-share 2020</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

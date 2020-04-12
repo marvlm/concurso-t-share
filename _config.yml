@@ -1,6 +1,8 @@
 title: "T-share | Reto #YoMeCorono"
 description: Súmate al reto por un mundo sin COVID-19. 
-image: '/assets/images/category/jekyll/configuration.jpg'
+slogan: Vestir es compartir
+logo: 'assets/img/logo.png'
+logo-white: 'assets/img/logo-white.png'
 sitename: "T-share | Reto #YoMeCorono"
 url: "https://marvlm.github.io"
 baseurl: "/concurso-t-share/"
@@ -9,6 +11,7 @@ sass:
   style: :compressed
 collections:
   - sections
+include: ['_pages']
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -16,4 +19,10 @@ exclude:
   - LICENSE.txt
   - CNAME
 author: Marvin López
+email: hola@t-share.store
+blog: "https://tshare.digitalpress.blog/"
+facebook: "@tsharestore"
+twitter: "@tsharestore"
+linkedin: "@tsharestore"
+instagram: "@tsharestore"
 author_url: https://about.me/marvlm
