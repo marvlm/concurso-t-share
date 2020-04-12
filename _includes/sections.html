@@ -1,14 +1,9 @@
 <main>
     {% for section in site.sections %}
-    <hr id="{{ section.id }}" />
 
-    <section>
-        {% if section.image %} <img class='{% cycle 'pull-right', 'pull-left' %}'
-            src='{{site.baseurl}}{{ section.image }}'> {% endif %}
-        <h2>{{ section.heading }}<span>{{ section.subheading }}</span></h2>
-        <div class="lead">{{ section.content }}</div>
+    <section id="{{ section.name }}" class="{{ section.class }}">
+        {{ section.content }}
     </section>
     {% endfor %}
 
-    <hr />
 </main>

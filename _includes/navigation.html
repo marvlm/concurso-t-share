@@ -6,17 +6,10 @@
     <li class="sidebar-brand">
       <a class="js-scroll-trigger" href="#page-top">Inicio</a>
     </li>
+    {% for section in site.sections %}
     <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#yomecorono">#YoMeCorono</a>
+      <a class="js-scroll-trigger" href="#{{ section.name }}">{{ section.title }}</a>
     </li>
-    <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#participar">Como participar</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#aceptar">Acepto el reto</a>
-    </li>
-    <li class="sidebar-nav-item">
-      <a class="js-scroll-trigger" href="#t-share">Somos T-share</a>
-    </li>
+    {% endfor %}
   </ul>
 </nav>
