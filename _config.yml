@@ -3,7 +3,6 @@ description: Súmate al reto por un mundo sin COVID-19.
 slogan: Vestir es compartir
 logo: 'assets/img/logo.png'
 logo-white: 'assets/img/logo-white.png'
-sitename: "T-share | Reto #YoMeCorono"
 url: "https://marvlm.github.io"
 baseurl: "/concurso-t-share/"
 sass:
