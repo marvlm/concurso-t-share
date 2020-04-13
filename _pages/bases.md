@@ -2,19 +2,85 @@
 layout: page
 title: Bases del reto
 permalink: bases-del-reto
-subtitle: Aquí encontrarás las reglas del juego
+subtitle: "#YoMeCorono con T-share"
 ---
 
-Lucas ipsum dolor sit amet carondian chistori vel coruscant trianii ferroans baba farlander kathol derek. Omas daala darth coway nikto unu mohc nute leia. Maarek phlog rom galen rebo winter veers wat saurin. Veknoid yuzzem psadan qel-droma gallia cato. Paaerduag mimbanite terrik leia solo fortuna. Dunwell bothan ors tharin jettster roonan bothan greeata chistori. Boba beru galen garm. Terrik nute di kurtzen besalisk. Ben darth droch teek croke vella ruwee gank dengar. Elrood ebe corellia doldur jinn zuggs aqualish.
+**T-share** convoca el 1er reto de diseño de camisetas con fines solidarios para apoyar económicamente en la campaña creada por la Fundación Lucha contra el Sida llamada [#YoMeCorono](https://www.yomecorono.com/) que tiene como objetivo principal reducir la transmisión comunitaria del COVID-19 y así frenar la curva de contagio.
 
-## This is an H2
+![#YoMeCorono con T-share]({{site.baseurl}}assets/img/t-share-YoMeCorono.png){:width="40%"}
 
-Organa ailyn bane sidious. Darklighter omas terentatek aleena lumiya ubese fortuna bail gonk. Owen maul ben billaba arvel bothan dantari tenel wicket. Roan aayla md-5 greeata tund. Cassio raioballo naberrie vaathkree hoojib fel mimbanite moff. Codru-ji kit skywalker togorian. Noa asajj muunilinst juvex. Cerea padmé mimbanite ahsoka bib hapan. Thisspiasian anzati ryn brak. Ranat piett squib zuckuss garm. Felth kamino sio bossk fisto. Gand quence endor duros piett bando solo. Darth kowakian psadan iv nelvaanian thakwaash dodonna mandell.
+## 1. Objeto:
 
-Nomi hypori mod roan. Evazan ben zekk hutt kast rieekan seerdon yuzzem. Hutta wedge pa'lowick skywalker keyan antilles quarren ree-yees. Depa soontir melodie xizor tarpals hutt bane caedus darth. Bail kastolar halla ozzel maris iego gordin moff tahiri. Jubnuk arkanis jinn noa lars quelli. Sabé skywalker mon wyl. Logray gallia gamorrean rattatak ima-gun mirax freedon ansionian. Zev tenel organa darth. Nagai epicanthix orus er'kit plo tion subterrel thul. Tarpals timoliini verpine tagge hallotan lars xappyh antilles snootles.
+El presente concurso tiene como finalidad seleccionar un diseño que promueva la campaña [#YoMeCorono](www.yomecorono.com). El objeto del concurso no es el diseño de patrones de camisetas únicamente, sino el diseño de un dibujo o imagen para serigrafiar en una camiseta que posteriormente será vendida con el fin de recaudar fondos para aportar a la investigación de la cura del COVID-19.
 
-### This is an H3
+## 2. Participantes
 
-Tatooine cathar iridonian aayla. Glymphid sullustan aparo allie arvel rakata. Amidala darth droid onimi stele sulorine. Gado cassio drach'nam rahm kel castell p'w'eck lars. Bollux darth jinn coruscant frozarns. Warrick talortai hutt palpatine zeltron lumiya. Gizka ben firmus dor anthos carnor wessell jettster noa. Naberrie katarn charal kenobi dagobah evazan grievous droid jamillia. Neimoidian vong freedon solo. Subterrel greeata bothan lars. Tof hutt p'w'eck veila miraluka miraluka kalarba nass stele.
+- Podrá participar en el concurso cualquier persona mayor de **X** años.  
+- Se podrá presentar un máximo de **X** diseños por persona.
 
-Dexter darth yoda ki-adi-mundi skywalker. Tarasin x1 fel su. Balosar obi-wan moddell devaronian gallia zekk xexto. Bail moff nas sebulba muunilinst himoran. Joelle klivian r2-d2 tharen. Darth unu hutt jobal stele. Calamari cornelius dengar bren codru-ji. Ubese drall gordin wookiee tsavong habassa. Shaak saurin lumiya sing chewbacca. Ranat sern gorog wuher bib boz muunilinst tarasin. Taung zann bardan nunb ruurian. Md-5 lah mara vedder windu bardan. Mandalore rishii borsk zann ansionian selkath fett mace.
+## 3.  Diseños
+
+Cada participante puede presentar el diseño que desee siempre y cuando se trate de obras originales e inéditas y que no hayan sido copiadas ni premiadas en ningún otro certamen o concurso.
+
+El diseño puede estar creado en base a dibujos, imágenes, tipografías, palabras, frases, números o cualquier otro elemento gráfico y deberá considerar **como elementos de tu diseño la frase convocante**, el hashtag [#YoMeCorono](www.yomecorono.com) y el logo de **T-share**. El tamaño real máximo de la impresión en la camiseta ganadora será de 35 x 25 cm y no se podrán utilizar más de  **6**  **colores**. El diseño deberá plantearse para ser impreso sobre una  **camiseta blanca**  en su parte delantera.
+
+Desde  la página web de **T-share** [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) podrá ser descargado un fichero pdf con el modelo de una camiseta blanca que servirá como base genérica para insertar e integrar cada uno de los diseños que deseen presentarse.
+
+## 4. Forma de presentación
+
+- Los diseños deberán presentarse en formato digital. 
+- El peso del archivo no deberá superar los 10 Mb.
+- El diseño deberá ser enviado a través de la página web de **T-share** [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}), a través del formulario provisto desde la página principal [*Enlace formulario*](). 
+- En caso de que solo se reciba el diseño sin la base, la organización decidirá el tamaño y ubicación del mismo en la camiseta.
+
+## 5. Plazo de presentación
+
+- El plazo de presentación de diseños es hasta el día **X de X a las Xh** - Los participantes deberán presentar el material con el nombre y apellidos del autor/a, teléfono y dirección de correo electrónico, datos solicitados en el formulario proporcionado por **T-share**. 
+- No se aceptarán diseños enviados a través de correo electrónico o por otro medio que no sea el formulario provisto por **T-share** para tal fin.
+
+## 6. Exposición:
+
+Se realizará una exposición digital de todos los diseños recibidos y aprobados por el equipo de **T-share** a partir del X de X hasta el X de X, en el sitio web de **T-share** los cuales serán sujetos a votaciones públicas para determinar el diseño ganador.
+
+## 7. Publicación
+
+Las obras expuestas podrán ser publicadas en medios de comunicación, redes sociales así como en la página web de **T-share** y sus asociados, y en otros medios que se estimen necesarios para la promoción del concurso.
+
+## 8. Selección del diseño ganador
+
+1. Todos los diseños deberán pasar por un proceso de revisión realizado por el equipo de **T-share**, dónde se considerarán únicamente los diseños que han cumplido con todo lo especificado [punto #3 de este documento](), además de ser diseños no ofensivos ni discriminatorios.
+2. Una vez seleccionados todos los diseños, se establecerá un primer periodo de votación popular en el cual se podrá votar en la página web [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) por su camiseta favorita. De entre las diez más votadas, un jurado profesional seleccionará el trabajo ganador, que será elegido el **X de X de 2020**. La fecha elegida para la celebración del fallo del jurado podría ser modificada por causas de fuerza mayor si fuera necesario, y trasladada a fechas previas o posteriores a la fecha inicial.
+
+## 9. Premios
+- El diseño ganador será promocionado en la tienda en línea de **T-share**, del cuál, X% de las ventas serán destinadas a apoyar la campaña [#YoMeCorono](www.yomecorono.com).
+- El diseñador ganador recibirá en concepto de premio, un porcentaje de X% por cada camiseta vendida. 
+- El diseñador ganador recibirá un reconocimiento como ganador del concurso y 1er diseño publicado en la tienda en línea de **T-share**.
+
+## 10. Oferta Especial
+
+**T-share** bonificará a todos los concursantes con un **descuento especial del**  **20%**  en caso de que estos estuvieran interesados en la realización de camisetas con sus diseños presentados.
+
+## 11. Obligaciones de los participantes
+
+La presentación al concurso implica la autorización del autor de la divulgación de su trabajo por cualquier medio de comunicación.
+
+Mediante el otorgamiento de este premio **T-share**, adquiere en exclusiva todos los derechos de propiedad intelectual inherentes a la obra finalista, y podrán libremente proceder a la reproducción, distribución, comunicación pública y transformación , teniendo derecho a expresar la obra por cualquier medio o soporte tangible, o intangible, comprendiendo, todas y cada una de las modalidades de explotación, incluyéndose los derechos de reproducción en cualquier soporte o formato, así como los derechos de distribución y comunicación pública de la obra, para su explotación comercial en todo el mundo. Queda incluida la emisión y transmisión on line de las obras y su puesta a disposición a través de las redes digitales interactivas.
+
+## 12. Otras disposiciones
+
+Cualquier hecho no previsto en estas bases, o duda sobre interpretación de las mismas, será resuelto a criterio de los organizadores.
+
+**La participación en la presente convocatoria implica aceptar todas y cada una de las disposiciones contenidas en las presentes bases y la conformidad con las decisiones del jurado que serán inapelables.**
+
+La organización se reserva el derecho de admisión para aquellos trabajos que por su contenido puedan resultar controvertidos.
+
+## 14. Atención a participantes
+
+De tener cualquier duda o necesitar alguna aclaración pueden enviarlas al correo electrónico {{site.email}}. Aseguramos una respuesta dentro de las siguientes 48 horas de recibido el correo.
+
+## 15. Protección de datos
+
+En cumplimiento de los dispuesto en la Ley Orgánica 15/1999 de Protección de Datos, le informamos que los datos personales proporcionados por VD. serán incorporados a un fichero de datos de carácter personal, cuyo titular y responsable es **T-share** y cuya única finalidad es la de gestionar la presente convocatoria. Con la remisión de sus datos, UD. presta su consentimiento para que **T-share**, pueda llevar a cabo su tratamiento con dicha finalidad. Sus datos serán tratados con la máxima confidencialidad y serán destruidos al finalizar la entrega de trabajos. Vd. podrá ejercer, en cualquier momento, su derecho de acceso, rectificación, cancelación y oposición sobre sus datos en los términos legalmente fijados.
+Para más información visite nuestra página de [Políticas de Privacidad](/politica) y [Términos y condiciones](/terminos-condiciones).
+
+### #YoMeCorono con T-share
