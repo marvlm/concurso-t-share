@@ -91,6 +91,6 @@ De tener cualquier duda o necesitar alguna aclaración pueden enviarlas al corre
 ## 15. Protección de datos
 
 En cumplimiento de los dispuesto en la Ley Orgánica 15/1999 de Protección de Datos, le informamos que los datos personales proporcionados por VD. serán incorporados a un fichero de datos de carácter personal, cuyo titular y responsable es **T-share** y cuya única finalidad es la de gestionar la presente convocatoria. Con la remisión de sus datos, UD. presta su consentimiento para que **T-share**, pueda llevar a cabo su tratamiento con dicha finalidad. Sus datos serán tratados con la máxima confidencialidad y serán destruidos al finalizar la entrega de trabajos. Vd. podrá ejercer, en cualquier momento, su derecho de acceso, rectificación, cancelación y oposición sobre sus datos en los términos legalmente fijados.
-Para más información visite nuestra página de [Políticas de Privacidad](/politica) y [Términos y condiciones](/terminos-condiciones).
+Para más información visite nuestra página de [Políticas de Privacidad]({{site.baseurl}}politica) y [Términos y condiciones]({{site.baseurl}}terminos-condiciones).
 
 ### #YoMeCorono con T-share
