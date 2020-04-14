@@ -26,6 +26,16 @@ El diseño puede estar creado en base a dibujos, imágenes, tipografías, palabr
 
 Desde  la página web de **T-share** [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) podrá ser descargado un fichero pdf con el modelo de una camiseta blanca que servirá como base genérica para insertar e integrar cada uno de los diseños que deseen presentarse.
 
+### Elementos que debe contener el diseño:
+
+1. FRASE CONVOCANTE
+¡Únete al movimiento #YoMeCorono y ayúdanos a frenar esta pandemia! ó #YoMeCorono con T-share ??
+
+2. Hashtags: #YoMeCorono, #VestirEsCompartir
+
+3. Logo de T-share que puedes descargar desde aquí 
+[bit.ly/t-share](https://drive.google.com/drive/folders/1YUa5zUpKhNHVxYx4jAwR1dYzOVWIe1eU?usp=sharing)  [Crear bit.ly]
+
 ## 4. Forma de presentación
 
 - Los diseños deberán presentarse en formato digital. 
