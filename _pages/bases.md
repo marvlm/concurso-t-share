@@ -62,7 +62,7 @@ Las obras expuestas podrán ser publicadas en medios de comunicación, redes soc
 2. Una vez seleccionados todos los diseños, se establecerá un primer periodo de votación popular en el cual se podrá votar en la página web [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) por su camiseta favorita. De entre las diez más votadas, un jurado profesional seleccionará el trabajo ganador, que será elegido el **X de X de 2020**. La fecha elegida para la celebración del fallo del jurado podría ser modificada por causas de fuerza mayor si fuera necesario, y trasladada a fechas previas o posteriores a la fecha inicial.
 
 ## 9. Premios
-- El diseño ganador será promocionado en la tienda en línea de **T-share**, del cuál, X% de las ventas serán destinadas a apoyar la campaña [#YoMeCorono](www.yomecorono.com).
+- El diseño ganador será promocionado en la tienda en línea de **T-share**, del cual, X% de las ventas serán destinadas a apoyar la campaña [#YoMeCorono](www.yomecorono.com).
 - El diseñador ganador recibirá en concepto de premio, un porcentaje de X% por cada camiseta vendida. 
 - El diseñador ganador recibirá un reconocimiento como ganador del concurso y 1er diseño publicado en la tienda en línea de **T-share**.
 
