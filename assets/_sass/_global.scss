@@ -92,4 +92,11 @@ h6 {
   overflow-wrap: break-word;
   word-wrap: break-word;
   hyphens: auto;
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 }

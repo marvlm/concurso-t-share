@@ -7,7 +7,7 @@ subtitle: "#YoMeCorono con T-share"
 
 **T-share** convoca el 1er reto de diseño de camisetas con fines solidarios para apoyar económicamente en la campaña creada por la Fundación Lucha contra el Sida llamada [#YoMeCorono](https://www.yomecorono.com/) que tiene como objetivo principal reducir la transmisión comunitaria del COVID-19 y así frenar la curva de contagio.
 
-![#YoMeCorono con T-share]({{site.baseurl}}assets/img/t-share-YoMeCorono.png){:width="40%"}
+![#YoMeCorono con T-share]({{site.baseurl}}assets/img/t-share-YoMeCorono.png)
 
 ## 1. Objeto:
 
