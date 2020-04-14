@@ -18,6 +18,10 @@
     <i class="fas fa-angle-up"></i>
   </a>
 
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+        {% include analytics.html %}
+  {% endif %}
+
   {% include scripts.html %}
 
   {% include cookie-consent.html %}
