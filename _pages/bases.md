@@ -24,7 +24,7 @@ Cada participante puede presentar el diseño que desee siempre y cuando se trate
 
 El diseño puede estar creado en base a dibujos, imágenes, tipografías, palabras, frases, números o cualquier otro elemento gráfico y deberá considerar **como elementos de tu diseño la frase convocante**, el hashtag [#YoMeCorono](www.yomecorono.com) y el logo de **T-share**. El tamaño real máximo de la impresión en la camiseta ganadora será de 35 x 25 cm y no se podrán utilizar más de  **6**  **colores**. El diseño deberá plantearse para ser impreso sobre una  **camiseta blanca**  en su parte delantera.
 
-Desde  la página web de **T-share** [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) podrá ser descargado un fichero pdf con el modelo de una camiseta blanca que servirá como base genérica para insertar e integrar cada uno de los diseños que deseen presentarse.
+En la página web de **T-share** [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) se provee de un enlace donde podrá ser descargado un fichero pdf con el modelo de una camiseta blanca que servirá como base genérica para insertar e integrar cada uno de los diseños que deseen presentarse.
 
 ### Elementos que debe contener el diseño:
 
@@ -33,8 +33,7 @@ Desde  la página web de **T-share** [**{{site.url}}{{site.baseurl}}**]({{site.u
 
 2. Hashtags: #YoMeCorono, #VestirEsCompartir
 
-3. Logo de T-share que puedes descargar desde aquí 
-[bit.ly/t-share](https://drive.google.com/drive/folders/1YUa5zUpKhNHVxYx4jAwR1dYzOVWIe1eU?usp=sharing)  [Crear bit.ly]
+3. Logo de T-share que puedes descargar desde [aquí]({{site.recursos}}){:target="_blank" rel="noopener noreferrer"}
 
 ## 4. Forma de presentación
 
