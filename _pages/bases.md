@@ -39,7 +39,7 @@ En la página web de <span class="tshare">T-share</span> [**{{site.url}}{{site.b
 
 - Los diseños deberán presentarse en formato digital. 
 - El peso del archivo no deberá superar los 10 Mb.
-- El diseño deberá ser enviado a través de la página web de <span class="tshare">T-share</span> [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}), a través del formulario provisto desde la página principal [*Enlace formulario*](). 
+- El diseño deberá ser enviado a través de la página web de <span class="tshare">T-share</span> [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}), a través del formulario provisto desde la página principal [*Enlace formulario*]({{site.formulario_inscripcion}}){:target="_blank" rel="noopener noreferrer"}. 
 - En caso de que solo se reciba el diseño sin la base, la organización decidirá el tamaño y ubicación del mismo en la camiseta.
 
 ## 5. Plazo de presentación

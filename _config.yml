@@ -19,6 +19,7 @@ exclude:
   - LICENSE.txt
   - CNAME
 google_analytics: "UA-162940411-2"
+formulario_inscripcion: "https://forms.gle/EZw7BZvYTepmWj8SA"
 author: Marvin López
 email: hola@t-share.es
 blog: "https://tshare.digitalpress.blog/"
