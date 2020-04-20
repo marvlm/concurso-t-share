@@ -11,6 +11,8 @@ sass:
   style: :compressed
 collections:
   - sections
+  - sections-2
+  - products
 include: ['_pages']
 exclude:
   - Gemfile

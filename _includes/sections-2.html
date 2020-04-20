@@ -1,0 +1,9 @@
+<main>
+    {% for section in site.sections-2 %}
+
+    <section id="{{ section.name }}" class="{{ section.class }}">
+        {{ section.content }}
+    </section>
+    {% endfor %}
+
+</main>
