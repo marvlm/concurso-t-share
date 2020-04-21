@@ -12,9 +12,9 @@
                 <p>Presentamos el diseño ganador en el reto <a class="js-scroll-trigger"
                         href="#yomecorono">#YoMeCorono</a> con <a class="js-scroll-trigger" href="#t-share"><span
                             class="tshare">T-share</span></a>
-                    <br />por <a class="js-scroll-trigger"
-                    href="#ganador"><span class="tshare">{{ product.designer }}</span></a></p>
-                <h4>{{ product.name }}</h4>
+                    <br />por <a class="js-scroll-trigger" href="#ganador"><span
+                            class="tshare">{{ product.designer }}</span></a></p>
+                <h5>{{ product.name }}</h5>
                 {{ product.description_markdown | markdownify }}
 
                 <!-- Progress bar -->
@@ -38,10 +38,6 @@
                 </div>
                 <h6 class="dark">Gastos de envío no incluidos</h6>
                 <!-- <div class="button">{% include snipcart-button.html product=page %}</div> -->
-                <em>
-                    <p class="dark mb-0">Recuerda que con tu compra estarás ayudando a reducir la transmisión
-                        comunitaria del COVID-19.</p>
-                </em>
                 <div class="shopping-cart row">
                     <!-- Product #1 -->
                     <div class="item">
@@ -64,11 +60,17 @@
                                 <i class="fas fa-minus"></i>
                             </button>
                         </div>
-                        <div class="total-price">Total: <span>€{{ product.price }}</span> <h6>+ gastos de envío</h6></div>
+                        <div class="total-price">Total: <span>€{{ product.price }}</span>
+                            <h6>+ gastos de envío</h6>
+                        </div>
                     </div>
                 </div>
-                <a href="#aceptar" class="btn btn-dark js-scroll-trigger comprar"><i class="fas fa-shopping-cart"></i>
+                <a href="#aceptar" class="btn btn-dark js-scroll-trigger comprar mb-2"><i class="fas fa-shopping-cart"></i>
                     Comprar</a>
+                <em>
+                    <p class="dark mb-0">Con tu compra ayudarás a reducir la transmisión
+                        comunitaria del COVID-19.</p>
+                </em>
             </div>
             {% endfor %}
         </div>

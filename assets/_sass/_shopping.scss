@@ -6,7 +6,7 @@
 
 .shopping-cart {
   width: 100%;
-  height: 60px;
+  height: 50px;
   margin: 0;
   border-radius: 6px;
 
@@ -18,8 +18,8 @@
 }
 
 .item {
-  padding: 10px 0;
-  height: 10px;
+/*   padding: 5px 0; */
+  height: 5px;
   display: flex;
 }
 
@@ -137,7 +137,7 @@ input:focus {
 /* Total Price */
 .total-price {
   width: 120px;
-  padding-top: 10px;
+ /*  padding-top: 10px; */
   text-align: center;
   font-size: 16px;
   color: #43484D;
