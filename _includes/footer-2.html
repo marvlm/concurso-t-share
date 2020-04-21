@@ -1,0 +1,92 @@
+<footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12 text-center">
+          <h3>
+            <a href="{{ site.url }}"><img src="{{site.baseurl}}{{site.logo-white}}" alt="T-share logo"
+                title="T-share logo" /></a>
+          </h3>
+          <p>
+            {{ site.slogan }}
+          </p>
+          <p>{{ site.description }}</p>
+        </div>
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12">
+          <h5>Bienvenido</h5>
+          <ul>
+            <li>
+                <a class="js-scroll-trigger" href="#page-top">Inicio</a>
+            </li>
+            {% for section in site.sections-2 %}
+            <li>
+              <a class="js-scroll-trigger"
+                href="{% unless page.url == '/index.html' %}{{ site.baseurl }}{% endunless %}mvp-2/#{{ section.name }}">{{ section.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12">
+          <h5>Enlaces de interés</h5>
+          <ul>
+            <li>
+              <a href="{{site.blog}}" target="_blank" rel="noopener noreferrer">Blog </a>
+            </li>
+            {% for page in site.pages %}
+                {% unless page.url == '/bases-del-reto' %}
+                <li>
+                <a href="{{site.baseurl}}{{page.permalink}}">{{ page.title }} </a>
+                </li>
+                {% endunless %}
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-3 col-sm-6 col-xs-12">
+          <h5>Contáctanos</h5>
+          <div class="widget">
+            <div class="newsletter-wrapper">
+              <p>
+                <a href="mailto:{{ site.email }}?Subject=Información sobre The Branch" target="_top"><i
+                    class="far fa-envelope"></i> {{ site.email }}</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  
+    <div id="copyright">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="site-info">
+              <ul class="list-inline mb-2">
+                {% if site.facebook %}
+                <li class="list-inline-item">
+                  <a class="social-link rounded-circle text-white mr-2" href="#">
+                    <i class="icon-social-facebook"></i>
+                  </a>
+                </li>
+                {% endif %}
+                {% if site.twitter %}
+                <li class="list-inline-item">
+                  <a class="social-link rounded-circle text-white mr-2" href="#">
+                    <i class="icon-social-twitter"></i>
+                  </a>
+                </li>
+                {% endif %}
+                {% if site.instagram %}
+                <li class="list-inline-item">
+                  <a class="social-link rounded-circle text-white" href="#">
+                    <i class="icon-social-github"></i>
+                  </a>
+                </li>
+                {% endif %}
+              </ul>
+              <p class="small mb-0">Copyright &copy; <span class="tshare">T-share</span> 2020</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>

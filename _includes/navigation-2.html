@@ -1,0 +1,20 @@
+<a class="menu-toggle rounded" href="#">
+    <i class="fas fa-bars"></i>
+  </a>
+  <nav id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+      <li class="sidebar-brand">
+        <a class="js-scroll-trigger"
+          href="{% unless page.url == '/mvp-2' %}{{ site.baseurl }}{% endunless %}#page-top">Inicio</a>
+      </li>
+      {% for section in site.sections-2 %}
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger"
+          href="{% unless page.url == '/index.html' %}{{ site.baseurl }}{% endunless %}#{{ section.name }}">{{ section.title }}</a>
+      </li>
+      {% endfor %}
+      <li class="sidebar-nav-item">
+        <a href="{{site.blog}}" target="_blank" rel="noopener noreferrer">Nuestro Blog</a>
+      </li>
+    </ul>
+  </nav>
