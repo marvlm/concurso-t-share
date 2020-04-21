@@ -10,7 +10,7 @@
       {% for section in site.sections-2 %}
       <li class="sidebar-nav-item">
         <a class="js-scroll-trigger"
-          href="{% unless page.url == '/index.html' %}{{ site.baseurl }}{% endunless %}#{{ section.name }}">{{ section.title }}</a>
+          href="{{ site.baseurl }}mvp-2/#{{ section.name }}">{{ section.title }}</a>
       </li>
       {% endfor %}
       <li class="sidebar-nav-item">
