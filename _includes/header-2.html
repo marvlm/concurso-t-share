@@ -25,9 +25,18 @@
                         <span style="width: 80%">80%</span>
                     </div>
                 </progress>
-
-                <h4>€{{ product.price }}</h4>
-                <h6 class="dark">IVA incluido más gastos de envío</h6>
+                <div class="shopping-cart row">
+                    <!-- Product #1 -->
+                    <div class="item">
+                        <div class="description">
+                            <h4>€{{ product.price }}</h4>
+                        </div>
+                        <div class="iva">
+                            <h6 class="dark">(IVA incluido)</h6>
+                        </div>
+                    </div>
+                </div>
+                <h6 class="dark">Gastos de envío no incluidos</h6>
                 <!-- <div class="button">{% include snipcart-button.html product=page %}</div> -->
                 <em>
                     <p class="dark mb-0">Recuerda que con tu compra estarás ayudando a reducir la transmisión
@@ -55,7 +64,7 @@
                                 <i class="fas fa-minus"></i>
                             </button>
                         </div>
-                        <div class="total-price">Total: <span>€{{ product.price }}</span></div>
+                        <div class="total-price">Total: <span>€{{ product.price }}</span> <h6>+ gastos de envío</h6></div>
                     </div>
                 </div>
                 <a href="#aceptar" class="btn btn-dark js-scroll-trigger comprar"><i class="fas fa-shopping-cart"></i>
