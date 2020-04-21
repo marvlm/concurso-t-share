@@ -1,13 +1,11 @@
 <div class="styles">
-		<div class="style" data-item-id="{{ forloop.index }}">
-			<a href="{{ product.url }}">
-				<img class="tshirt" src="{{ site.baseurl }}{{ product.image }}">
-			</a>
-		</div>
+	<div class="style" data-item-id="{{ forloop.index }}">
+		<img class="tshirt" src="{{ site.baseurl }}{{ product.image }}">
+	</div>
 
 	<div class="style-picker">
 		{% for style in include.product.styles %}
-			<div style="background-color: {{ style.color }}" data-item-id="{{ forloop.index }}"></div>
+		<div style="background-color: {{ style.color }}" data-item-id="{{ forloop.index }}"></div>
 		{% endfor %}
 	</div>
 </div>
