@@ -11,18 +11,17 @@ subtitle: "#YoMeCorono con T-share"
 
 ## 1. Objeto:
 
-El presente reto tiene como finalidad seleccionar un diseño que promueva la campaña [#YoMeCorono](www.yomecorono.com). El objeto del reto es crear un diseño para serigrafiar en una camiseta que posteriormente será vendida con el fin de recaudar fondos para aportar a la investigación de la cura del COVID-19.
+El presente reto tiene como finalidad seleccionar un diseño que promueva la campaña [#YoMeCorono](www.yomecorono.com). El objeto del reto es crear un diseño para serigrafiar en una camiseta que posteriormente será vendida con el fin de recaudar fondos para aportar a la investigación de la cura del COVID-19. El 18% de las ventas de las camisetas serán destinadas a apoyar la campaña [#YoMeCorono](www.yomecorono.com).
 
 ## 2. Participantes
 
-- Podrá participar en el reto cualquier persona mayor de **X** años.  
-- Se podrá presentar un máximo de **X** diseños por persona.
+- Podrán participar en el reto personas de todas las edades. En el caso de los menores de edad, para poder participar deberán adjuntar en el formulario una carta de autorización de su tutor o representante legal, junto con una imagen de su DNI, NIE o Pasaporte, que será revisada por el equipo de T-share. 
 
 ## 3.  Diseños
 
 Cada participante puede presentar el diseño que desee siempre y cuando se trate de obras originales e inéditas y que no hayan sido copiadas ni premiadas en ningún otro certamen o concurso.
 
-El diseño puede estar creado basado en dibujos, imágenes, tipografías, palabras, frases, números o cualquier otro elemento gráfico y deberá incluir **como elementos de tu diseño la frase convocante**, el hashtag [#YoMeCorono](www.yomecorono.com) y el logo de <span class="tshare">T-share</span>. El tamaño real máximo de la impresión en la camiseta ganadora será de 35 x 25 cm y se podrá utilizar hasta **6**  **colores**. El diseño deberá plantearse para ser impreso sobre una  **camiseta blanca**  en su parte delantera.
+El diseño puede estar creado basado en dibujos, imágenes, tipografías, palabras, frases, números o cualquier otro elemento gráfico y deberá incluir **como elementos de tu diseño**, el hashtag [#YoMeCorono](www.yomecorono.com) y el logo de <span class="tshare">T-share</span>. El tamaño real máximo de la impresión en la camiseta ganadora será de 35 x 25 cm y se podrá utilizar hasta **6**  **colores**. El diseño deberá plantearse para ser impreso sobre una  **camiseta blanca**  en su parte delantera.
 
 En la página web de <span class="tshare">T-share</span> [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) se provee de un enlace donde se podrá descargar un fichero pdf con el modelo de una camiseta blanca que servirá como base genérica para insertar e integrar cada uno de los diseños que deseen presentarse.
 
@@ -41,12 +40,12 @@ En la página web de <span class="tshare">T-share</span> [**{{site.url}}{{site.b
 
 ## 5. Plazo de presentación
 
-- El plazo de presentación de diseños es hasta el día **X de X a las Xh** - Los participantes deberán presentar el material con el nombre y apellidos del autor/a, teléfono y dirección de correo electrónico, datos solicitados en el formulario proporcionado por <span class="tshare">T-share</span>. 
+- El plazo de presentación de diseños es hasta el día 17 de Mayo a las 23:59 - Los participantes deberán presentar el material con el nombre y apellidos del autor/a, teléfono y dirección de correo electrónico, datos solicitados en el formulario proporcionado por <span class="tshare">T-share</span>. 
 - No se aceptarán diseños enviados a través de correo electrónico o por otro medio que no sea el formulario provisto por <span class="tshare">T-share</span> para tal fin.
 
 ## 6. Exposición:
 
-Se realizará una exposición digital de todos los diseños recibidos y aprobados por el equipo de <span class="tshare">T-share</span> a partir del X de X hasta el X de X, en el sitio web de <span class="tshare">T-share</span> los cuales serán sujetos a votaciones públicas para determinar el diseño ganador.
+Se realizará una exposición digital de todos los diseños recibidos y aprobados por el equipo de <span class="tshare">T-share</span> a partir del 18 de Mayo de 2020 a las 00:00 hasta el 1 de Junio de 2020 a las 18:00, en el sitio web de <span class="tshare">T-share</span> los cuales serán sujetos a votaciones públicas para determinar el diseño ganador.
 
 ## 7. Publicación
 
@@ -58,7 +57,7 @@ Las obras expuestas podrán ser publicadas en medios de comunicación, redes soc
 2. Una vez seleccionados todos los diseños, se establecerá un primer periodo de elección popular en el cual se podrá votar en la página web [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) por su camiseta favorita. Entre todas las propuestas, solo pasaran a la fase final las 10 más votadas. Si entre ellas existen obras de un mismo diseñador, se seleccionará la más votada. Posterior, el jurado de <span class="tshare">T-share</span> seleccionará el trabajo ganador, que será elegido el **X de X de 2020**. <span class="tshare">T-share</span> se reserva el derecho de modificar la fecha de fallo del jurado sí fuera necesario. Ésta fecha podría ser previa o posterior a la inicialmente establecida. En caso de modificarla, T-share lo notificará en su página web.
 
 ## 9. Premios
-- El diseño ganador será promocionado en la tienda en línea de <span class="tshare">T-share</span>, del cual, 15% de las ventas serán destinadas a apoyar la campaña [#YoMeCorono](www.yomecorono.com).
+<span class="tshare">T-share</span> establece la venta mínima de 90 camisetas para poder lanzar la campaña. Si, durante el plazo arriba especificado, se logra una venta mínima de 90 camisetas:
 - El diseñador ganador recibirá 150€ en concepto de premio. Dicho importe será transferido a la cuenta bancaria que el diseñador facilite a <span class="tshare">T-share</span>.
 - El diseñador ganador recibirá un reconocimiento como ganador del reto y 1er diseño publicado en la tienda en línea de <span class="tshare">T-share</span>.
 
