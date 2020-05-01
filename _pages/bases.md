@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bases del reto
+title: Bases del reto, plazos y premios
 permalink: bases-del-reto
 subtitle: "#YoMeCorono con T-share"
 ---
@@ -54,7 +54,7 @@ Las obras expuestas podrán ser publicadas en medios de comunicación, redes soc
 ## 8. Selección del diseño ganador
 
 1. Todos los diseños deberán pasar por un proceso de revisión realizado por el equipo de <span class="tshare">T-share</span>, tras el que se considerarán únicamente aquellos que hayan cumplido con lo establecido en el [punto #3 de este documento](), además de ser diseños no ofensivos ni discriminatorios.
-2. Una vez seleccionados todos los diseños, se establecerá un primer periodo de elección popular en el cual se podrá votar en la página web [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) por su camiseta favorita. Entre todas las propuestas, solo pasaran a la fase final las 10 más votadas. Si entre ellas existen obras de un mismo diseñador, se seleccionará la más votada. Posterior, el jurado de <span class="tshare">T-share</span> seleccionará el trabajo ganador, que será elegido el **X de X de 2020**. <span class="tshare">T-share</span> se reserva el derecho de modificar la fecha de fallo del jurado sí fuera necesario. Ésta fecha podría ser previa o posterior a la inicialmente establecida. En caso de modificarla, T-share lo notificará en su página web.
+2. Una vez seleccionados todos los diseños, se establecerá un primer periodo de elección popular en el cual se podrá votar en la página web [**{{site.url}}{{site.baseurl}}**]({{site.url}}{{site.baseurl}}) por su camiseta favorita. Entre todas las propuestas, solo pasaran a la fase final las 10 más votadas. Si entre ellas existen obras de un mismo diseñador, se seleccionará la más votada. Posterior, el jurado de <span class="tshare">T-share</span> seleccionará el trabajo ganador, que será elegido el **13 de Junio de 2020**. <span class="tshare">T-share</span> se reserva el derecho de modificar la fecha de fallo del jurado sí fuera necesario. Ésta fecha podría ser previa o posterior a la inicialmente establecida. En caso de modificarla, T-share lo notificará en su página web.
 
 ## 9. Premios
 <span class="tshare">T-share</span> establece la venta mínima de 90 camisetas para poder lanzar la campaña. Si, durante el plazo arriba especificado, se logra una venta mínima de 90 camisetas:
